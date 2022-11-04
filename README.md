@@ -4,11 +4,11 @@ Data Mining (INFOH423) project, for leveraging STIB open data to derive impactfu
 ---
 
 ## Steps/Flow to take:
-1. Understand objectives & scope
-2. Understand data we are working with
-3. ...
-4. 
-5. 
+1. Understand objectives & scope <span style = "color: darkgreen;">(Done)</span>
+2. Understand data we are working with <span style = "color: darkgreen;">(Done)</span>
+3. Visualize full STIB network using shapefiles <span style = "color: darkgreen;">(Done)</span>
+4. Explore GTFS data for STIB schedule
+5. Get statistics on STIB schedule, and categorize on punctuality/regularity
 6. 
 7. 
 
