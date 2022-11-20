@@ -12,7 +12,7 @@ Data Mining (INFOH423) project, for leveraging STIB open data to derive impactfu
     - JSON data for the real outcome events
 5. Preprocess:
     - GTFS data <span style = "color: darkgreen;">(Done)</span>
-    - JSON data
+    - JSON data (WIP)
 6. Get statistics on STIB schedule, and categorize on punctuality/regularity
 7. ...
 8. 
