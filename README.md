@@ -1,5 +1,6 @@
 # **STIB - Hack My Ride**
-Data Mining (INFOH423) project, for leveraging STIB open data to derive impactful insights
+---
+### Data Mining (INFOH423) project, for leveraging STIB open data to derive impactful insights
 ---
 ## Project Instructions
 
