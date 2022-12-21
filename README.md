@@ -1,25 +1,6 @@
 # **STIB - Hack My Ride**
 Data Mining (INFOH423) project, for leveraging STIB open data to derive impactful insights
-
 ---
-
-## Steps/Flow to take:
-1. Understand objectives & scope <span style = "color: darkgreen;">(Done)</span>
-2. Understand data we are working with <span style = "color: darkgreen;">(Done)</span>
-3. Preprocess & visualize full STIB network using shapefiles <span style = "color: darkgreen;">(Done)</span>
-4. Explore:
-    - GTFS data for STIB schedule <span style = "color: darkgreen;">(Done)</span>
-    - JSON data for the real outcome events
-5. Preprocess:
-    - GTFS data <span style = "color: darkgreen;">(Done)</span>
-    - JSON data (WIP)
-6. Get statistics on STIB schedule, and categorize on punctuality/regularity
-7. ...
-8. 
-9. 
-10. 
----
-
 ## Project Instructions
 
 Since you study in ULB, you must be a regular user of stib-mivb - the
