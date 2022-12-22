@@ -2,6 +2,8 @@
 ---
 ### Data Mining (INFOH423) project, for leveraging STIB open data to derive impactful insights
 ---
+#### **Note:** All notebooks are required to be pulled locally to view charts as both plotly and folium are interactive and uses javascript
+---
 ## Project Instructions
 
 Since you study in ULB, you must be a regular user of stib-mivb - the
